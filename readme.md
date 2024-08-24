@@ -1,1 +1,1 @@
-# Implementation of caeser Cipher code that how to encrypt and decrypt the code.
+# Implementation of caeser Cipher code that how to encrypt and decrypt the message.
